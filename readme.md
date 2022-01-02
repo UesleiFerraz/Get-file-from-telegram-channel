@@ -1,5 +1,3 @@
-This is a simple telegram script to get all files from a telegram channel you want
-
 ## Mission
 
 This is a simple telegram script to get all files from a telegram channel you want just by running a command
@@ -17,5 +15,5 @@ It requires some python packages to run, you can install them using pip:
 ## Usage
 
 - Write your envs, the same way they are on .env.example, in a new .env file
-- Execute ` /path/to/script/file.py`
+- Execute `/path/to/script/src/script.py`
 - Enjoy!
